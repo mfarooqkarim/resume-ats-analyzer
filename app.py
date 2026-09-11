@@ -20,7 +20,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_NAME = "gemini-3.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 MAX_FILE_SIZE_MB = 10
 MAX_RESUME_CHARS = 30000
 MAX_JOB_DESCRIPTION_CHARS = 15000
